@@ -56,7 +56,7 @@ long_description = read_readme('README.md')
 # Setup configuration
 setup(
     name=pkg_name,
-    version="0.0.1",
+    version="0.0.2",
     author=author_user_name,
     author_email=author_email,
     description='Python functions for EDA: univariate, bivariate, and multivariate analysis.',

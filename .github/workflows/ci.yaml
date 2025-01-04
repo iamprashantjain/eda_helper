@@ -50,5 +50,3 @@ jobs:
     - name: Run tox with recreate
       run: |
         tox --recreate
-
-    
