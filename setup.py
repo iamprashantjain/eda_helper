@@ -47,7 +47,7 @@ def read_readme(file_path: str) -> str:
 
 author_user_name = "iamprashantjain"
 repo_name = "eda_helper"
-pkg_name = "Data-Analysis-Helper"
+pkg_name = "eda_helper"
 author_email = 'iamprashantjain2601@gmail.com'
 
 # Read the content of the README.md
