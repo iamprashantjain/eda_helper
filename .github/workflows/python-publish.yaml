@@ -8,7 +8,7 @@ on:
       version:
         description: 'Version of the release'
         required: true
-        default: 'v1.0.0'  # Default value for the version
+        default: 'v.0.01'  # Default value for the version
 
 permissions:
   contents: read  # Allow the action to read the repository contents
